@@ -1,0 +1,39 @@
+<html>
+    <head>
+    <link rel=stylesheet type=text/css href="home.css">
+    <title>Nimala Shawar Home Page</title>
+    <h1 style=color:99004c; allign:center;>WELCOME!</h1>
+    <link href="Nimala.css">
+    </head>
+<style>
+h3{ 
+    color:990099; }
+p.pink{
+          color:ff3399;
+}
+</style>
+
+    <body>
+   
+  
+    <h1 style= color:CC0066; > Home Page </h1>
+    <p> Hello there,
+    My name is Nimala Shawar, I am 16 year old Palestinian.</p>
+    <p> I live in Jerusalem.
+    <p> I go to Rosary Sisters' High School.</p>
+    <p>Enjoy My page :)    </p>
+  
+    <nav>
+    <a href="/html/">Home Page!</a> |
+    <a href="/css/">About Me!</a> |
+    <a href="/js/">Contact Me!</a> |
+    </nav> 
+
+   
+    </body>
+
+
+</html>
+
+</body>
+</html>

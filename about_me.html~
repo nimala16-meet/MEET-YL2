@@ -1,0 +1,23 @@
+<html>
+    <head>
+    <link rel=stylesheet type=text/css href="home.css">
+    <title> Home </title>
+   
+    </head>
+
+    <body>
+   
+    <img src="http://www.dreamjordan.com/up/6353hlmjo.jpg" height="220px" width="220px">
+    <h1 style= color:CC0066; > Home Page </h1>
+    <p> As a 16 year-old girl I decided to create a page to share my moments and achievements with you. My name is Nimala Shawar and I'm 16 years old. I'm a Palestinian who lives in Jerusalem. I go to Rosary Sisters High School in Beit-Hanina. My parents work as Doctors.I have 2 sisters.I speak 4 languages: Arabic, English, Hebrew and French.I am a member in MEET (Middle East Entrepreneurs of Tomorrow); as well as a member in the MUN club (Model United Nations). I play the Piano and the Violin. I dance the Ballet and I ride horses. </p>
+
+    </body>
+
+   <nav>
+    <a href="/html/">Home Page!</a> |
+    <a href="/css/">About Me!</a> |
+    <a href="/js/">Contact Me!</a> |
+    </nav> 
+
+
+</html>
