@@ -1,20 +1,18 @@
 <html>
     <head>
-    <link rel=stylesheet type=text/css href="page.css">
+    <link rel=stylesheet type=text/css href="/static/page.css">
     <title>Nimala Shawar Home Page</title>
     <h1 style=color:99004c; allign:center;>WELCOME!</h1>
-    <link href="Nimala.css">
     </head>
 <body>
 
 
-<div class="bow.jpg">
 <div style=color:99004c; class="logo">Home !</div>
   <div class="menu">
     <ul>
-      <li><a href="home.html" class="active">Home</a></li>
-      <li><a href="about_me.html">About me</a></li>
-      <li><a href="contact_us.html">Contact me</a></li>
+      <li><a href="/home" class="active">Home</a></li>
+      <li><a href="/about_me">About me</a></li>
+      <li><a href="/contact_me">Contact me</a></li>
      
     </ul>
   </div>
@@ -35,9 +33,9 @@
    <div class="right-column">
      
       <div class="right-column-content">
-    
-    <p> Hello there,
-    My name is Nimala (Nina) Shawar, I am 16 year old Palestinian girl.I live in Jerusalem.I go to Rosary Sisters' High School.I have many hobbies so that they can help me to achieve my goals. believe that my mission in life is to be different in order to change the world.
+    <img src="/static/home1.jpeg" alt="themedemic" weight="200" height="400"align="center"/><br>
+    <p allign:center;> Hello there,
+    My name is Nimala (Nina) Shawar, I am 16 year old Palestinian girl. I live in Jerusalem. I go to Rosary Sisters' High School.I have many hobbies so that they can help me to achieve my goals. believe that my mission in life is to be different in order to change the world.
 If you want to know more about me check "About Me" page.
     <p align:center; >Enjoy My page :)</p>
   
